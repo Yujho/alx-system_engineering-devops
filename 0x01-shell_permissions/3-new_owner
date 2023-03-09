@@ -1,2 +1,2 @@
 #!/bin/bash
-chownbetty hello
+sudo chownbetty hello
