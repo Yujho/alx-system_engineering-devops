@@ -1,2 +1,2 @@
 #!/bin/bash
-alais
+alias 1="ls"
